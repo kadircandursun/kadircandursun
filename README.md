@@ -2,7 +2,7 @@
 
 ## 🚀 Hakkımda
 
-Merhaba! Yazılım geliştirme dünyasında kendimi geliştiren bir geliştiriciyim. Teknolojilere tutkulu, öğrenmeye açık ve problem çözmeyi seven biri olarak buradayım.
+Merhaba! Yazılım geliştirme dünyasında kendimi geliştiren bir geliştiriciyim. Bu profildeki çalışmalarım kişisel geliştirme projelerim için saklıdır.
 
 ## 💻 Teknolojiler
 
@@ -27,11 +27,9 @@ Merhaba! Yazılım geliştirme dünyasında kendimi geliştiren bir geliştirici
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kadircandursun&theme=radical&hide_border=true&bg_color=0D1117)
 
-## 🤝 Birlikte Çalışalım
+## 📧 İletişim
 
-Açık kaynak projelerde iş birliği yapmayı seviyorum. Projelerinizde katkı sağlamak veya yeni projeler üzerinde çalışmak için iletişime geçebilirsiniz.
-
-- 📧 Email: kadircandursun@icloud.com
+- Email: kadircandursun@icloud.com
 
 ## ✨ İlgi Alanları
 
@@ -40,15 +38,5 @@ Açık kaynak projelerde iş birliği yapmayı seviyorum. Projelerinizde katkı 
 - 🌐 Web Geliştirme
 - 🎮 Oyun Geliştirme
 
-## 📝 Son Projeler
-
-[Burada GitHub'ınızdaki önemli projelerinizi listeleyebilirsiniz]
-
 ---
-
-⭐ GitHub'daki profilime göz atmayı unutmayın!
-
-<!--
-Buraya isterseniz gelecekte projelerinizin listesini ekleyebilirsiniz
--->
 
